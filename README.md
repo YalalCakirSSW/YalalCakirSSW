@@ -12,6 +12,10 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working at SSW
+😄 Pronouns: she/her
+
 [![Yalal's github stats](https://github-readme-stats.vercel.app/api?username=yalalcakirssw&theme=dark)](https://github.com/yalalcakirssw/github-readme-stats)
 
 Cheers
