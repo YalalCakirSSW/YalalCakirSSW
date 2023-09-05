@@ -12,4 +12,6 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
-[![Yalal's github stats](https://github-readme-stats.vercel.app/api?username=adamcogan&theme=dark)](https://github.com/adamcogan/github-readme-stats)
+[![Yalal's github stats](https://github-readme-stats.vercel.app/api?username=yalalcakirssw&theme=dark)](https://github.com/yalalcakirssw/github-readme-stats)
+
+Cheers
